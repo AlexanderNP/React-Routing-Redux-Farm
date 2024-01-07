@@ -1,0 +1,18 @@
+.link{
+
+  padding: 0.8vw 2.5vw;
+  background-color: #fff;
+  border-radius: 1vw;
+  color: black;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  text-decoration: none;
+  transition: all 0.2s ease-out;
+  border: 0.3vw solid black;
+  font-weight: 900;
+  opacity: 0.3;
+}
+
+.active{
+  opacity: 1;
+}
